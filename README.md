@@ -1,9 +1,9 @@
+
+
 <br />
-
 <p align="center">
-  <a href="https://github.com/argelion14"><img src="https://github-readme-stats.vercel.app/api?username=argelion14&hide_border=true&show_icons=true&text_color=4BFFDC&bg_color=0000" alt="Argelion14's github stats"></a>
+  <a href="https://github.com/argelion14"><img src="https://github-readme-stats.vercel.app/api/?username=argelion14&show_icons=true\&title_color=fff\&icon_color=DAFBE1\&text_color=DAFBE1\&bg_color=DAFBE1" alt="Argelion14's github stats"></a>
 </p>
-
 <br />
 
 [![Gmail Badge](https://img.shields.io/badge/-argelion14@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luisarosteguiruizit@gmail.com)](mailto:luisarosteguiruizit@gmail.com)
