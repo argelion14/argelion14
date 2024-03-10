@@ -1,4 +1,4 @@
-
+<p align="center"><a href="https://www.linkedin.com/in/angel-amadeo-gonzalez-ruiz/"><img width="45%" src="./imgs/argelion14.png" /></a></p>
 
 <br />
 <p align="center">
