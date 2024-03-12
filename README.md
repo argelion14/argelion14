@@ -6,5 +6,10 @@
 </p>
 <br />
 
+<details>
+<summary>Redes sociales 🚀</summary>
+  
 [![Gmail Badge](https://img.shields.io/badge/-argelion14@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luisarosteguiruizit@gmail.com)](mailto:luisarosteguiruizit@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-AngelAmadeoGonzalezRuiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angel-amadeo-gonzalez-ruiz/)](https://www.linkedin.com/in/angel-amadeo-gonzalez-ruiz/)
+
+</details>
