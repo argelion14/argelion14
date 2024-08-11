@@ -6,5 +6,9 @@
 </p>
 <br />
 
-[![Gmail Badge](https://img.shields.io/badge/-argelion14@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luisarosteguiruizit@gmail.com)](mailto:luisarosteguiruizit@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-AngelAmadeoGonzalezRuiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angel-amadeo-gonzalez-ruiz/)](https://www.linkedin.com/in/angel-amadeo-gonzalez-ruiz/)
+
+<p align="center">
+  <a href="https://github.com/r-dvl">
+    <img src="https://komarev.com/ghpvc/?username=argelion14&color=blue&style=flat)" />
+  </a>
+</p>
