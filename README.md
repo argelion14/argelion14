@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/r-dvl">
+  <a href="https://github.com/argelion14">
     <img src="https://komarev.com/ghpvc/?username=argelion14&color=blue&style=flat)" />
   </a>
 </p>
